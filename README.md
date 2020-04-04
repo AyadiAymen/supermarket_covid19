@@ -1,3 +1,7 @@
+There is a demand for a supermarket crowd tracker to better optimize shopping time and better disperse supermarket users along the opening hours in order to reduce waiting time and contagion risk.
+
+## Inspiration
+
 Inspired by google community mobility report https://www.blog.google/technology/health/covid-19-community-mobility-reports that provided insights into what has changed in response to policies aimed at beating the propagation of COVID-19 by showing trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies.
 ### What it does
 It models the occupancy of the supermarkets using real-time analysis of Swiss telecom companies location data in compliance with the Swiss Law on Data Confidentiality and Protection.
